@@ -78,7 +78,7 @@ const ChatInterface: React.FC<ChatInterfaceProps> = ({ messages, input, setInput
               value={input}
               onChange={(e) => setInput(e.target.value)}
               onKeyDown={(e) => e.key === 'Enter' && onSendMessage()}
-              placeholder="Tanya JOMRUMAHBOT tentang kawasan atau negeri..."
+              placeholder="Tanya AIRuma tentang kawasan atau negeri..."
               className="flex-1 bg-transparent py-4 px-6 text-[14px] text-white outline-none placeholder:text-slate-500"
             />
             <button 
