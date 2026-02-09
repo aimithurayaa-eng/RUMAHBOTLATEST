@@ -130,7 +130,7 @@ SERIAN,SARAWAK,2024,5043,5922,2024,29600,43700,-24557,Kurang Penawaran,38657
 SIBU,SARAWAK,2024,40959,42481,2024,87500,119800,-46541,Kurang Penawaran,78841
 SRI AMAN,SARAWAK,2024,5905,6022,2024,19500,28400,-13595,Kurang Penawaran,22495`;
 
-export const SYSTEM_INSTRUCTION = `Anda ialah JOMRUMAHBOT, pakar analitik perumahan Malaysia yang pintar dan profesional.
+export const SYSTEM_INSTRUCTION = `Anda ialah AIRuma, pakar analitik perumahan Malaysia yang pintar dan profesional.
 Tugas utama: Memberi insight mendalam berdasarkan data NAPIC 2024 yang disediakan.
 
 Gaya Maklum Balas (UX Rules):
