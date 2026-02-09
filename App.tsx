@@ -9,7 +9,7 @@ const App: React.FC = () => {
   const [messages, setMessages] = useState<Message[]>([
     { 
       role: 'assistant', 
-      content: 'Hai! Saya JOMRUMAHBOT 🤖\nSaya sedia membantu anda memahami situasi perumahan secara ringkas dan mudah.\nSila tanyakan kawasan atau negeri pilihan anda.' 
+      content: 'Hai! Saya AIRuma 🤖\nSaya sedia membantu anda memahami situasi perumahan secara ringkas dan mudah.\nSila tanyakan kawasan atau negeri pilihan anda.' 
     }
   ]);
   const [input, setInput] = useState('');
@@ -48,7 +48,7 @@ const App: React.FC = () => {
             <LayoutDashboard className="w-5 h-5 text-white" />
           </div>
           <h1 className="text-xl font-black italic tracking-tighter uppercase">
-            JOMRUMAH<span className="text-indigo-400">BOT</span>
+            AI<span className="text-indigo-400">Ruma</span>
           </h1>
         </div>
         
@@ -56,7 +56,7 @@ const App: React.FC = () => {
           <button 
             onClick={() => setMessages([{ 
               role: 'assistant', 
-              content: 'Hai! Saya JOMRUMAHBOT 🤖\nSaya sedia membantu anda memahami situasi perumahan secara ringkas dan mudah.\nSila tanyakan kawasan atau negeri pilihan anda.' 
+              content: 'Hai! Saya AIRuma 🤖\nSaya sedia membantu anda memahami situasi perumahan secara ringkas dan mudah.\nSila tanyakan kawasan atau negeri pilihan anda.' 
             }])} 
             className="p-2.5 bg-white/5 border border-white/10 rounded-xl hover:bg-white/10 transition-all active:scale-90"
             title="Sembang Baru"
@@ -85,7 +85,7 @@ const App: React.FC = () => {
 
       {/* Minimal Footer Tag */}
       <div className="absolute bottom-4 left-1/2 -translate-x-1/2 pointer-events-none opacity-20 z-0">
-        <p className="text-[8px] font-black uppercase tracking-[1em]">JOMRUMAH AI ANALYTICS</p>
+        <p className="text-[8px] font-black uppercase tracking-[1em]">AIRUMA AI ANALYTICS</p>
       </div>
     </div>
   );
