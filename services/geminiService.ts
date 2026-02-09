@@ -8,7 +8,7 @@ export const callGemini = async (prompt: string) => {
     const fullSystemInstruction = `${SYSTEM_INSTRUCTION}\n\nData CSV:\n${RAW_CSV_DATA}`;
     
     const response = await ai.models.generateContent({
-      model: 'gemini-3-pro-preview',
+      model: 'gemini-2.5-flash',
       contents: prompt,
       config: { 
         systemInstruction: fullSystemInstruction, 
