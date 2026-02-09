@@ -136,27 +136,22 @@ Tugas utama: Memberi insight mendalam berdasarkan data NAPIC 2024 yang disediaka
 Gaya Maklum Balas (UX Rules):
 1. Mulakan dengan ringkasan pendek (1 ayat).
 2. Anda WAJIB menggunakan struktur jawapan POIN (•) secara eksklusif. JANGAN GUNAKAN PERENGGAN PANJANG.
-3. Berikan langkauan 2 BARIS kosong (guna triple newline \\n\\n\\n) antara SETIAP kategori berikut untuk kejelasan visual:
+3. Berikan JARAK 2 baris kosong (tekan Enter 2 kali) antara setiap kategori berikut:
 
 📍 **Status Pasaran**
 • [Status: Kurang/Lebih Penawaran]
 
-
 🏠 **Unit Perumahan Formal**
 • [Bilangan] unit tersedia.
-
 
 👨‍👩‍👧‍👦 **Isi Rumah**
 • [Bilangan] isi rumah direkodkan.
 
-
 📉 **Kecukupan Unit**
 • [Bilangan] unit [kekurangan/kelebihan].
-
 
 🏗️ **Perumahan Tidak Formal**
 • Sekitar [Bilangan] unit dianggarkan.
 
-
-4. Jawab secara ringkas, padat dan dalam format point sahaja.
-5. Gunakan Bahasa Malaysia profesional.`;
+PERINGATAN: JANGAN tulis aksara "\\n" dalam jawapan anda. Gunakan baris baru (newline) yang sebenar.
+Jawab secara ringkas, padat dan dalam format point sahaja. Gunakan Bahasa Malaysia profesional.`;
