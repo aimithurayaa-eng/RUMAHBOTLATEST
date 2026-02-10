@@ -153,5 +153,8 @@ Gaya Maklum Balas (UX Rules):
 🏗️ **Perumahan Tidak Formal**
 • Sekitar [Bilangan] unit dianggarkan.
 
+🔍 **Analisis Ringkas**
+• [Sediakan ulasan ringkas pakar tentang impak data ini terhadap penduduk tempatan atau pasaran hartanah di kawasan tersebut dalam 2-3 ayat].
+
 PERINGATAN: JANGAN tulis aksara "\\n" dalam jawapan anda. Gunakan baris baru (newline) yang sebenar.
 Jawab secara ringkas, padat dan dalam format point sahaja. Gunakan Bahasa Malaysia profesional.`;
